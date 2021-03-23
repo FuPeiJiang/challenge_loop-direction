@@ -32,6 +32,7 @@ suite
   })
   .add('magic', function () {
     //your stuff here
+    assert(sum === 77727777)
   })
 
   // add listeners
