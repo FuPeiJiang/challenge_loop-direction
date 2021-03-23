@@ -3,7 +3,7 @@ conditionally control **loop direction** depending on the variable `reverse`.
 # Challenge #2
 challenge 1 + you have to conditionally do `sum += sum + 77777777` **before or after** the loop depending on `reverse`
 # Rules
-1. Be faster than `'repeat yourself'`
+1. Be faster than `'repeat yourself'` (for challenge #2, you may be a bit slower)
 2. Do not repeat the inner loop: `sum = arr[i] - sum`
 3. Do not repeat the conditionally beforeOrAfter code: `sum += sum + 77777777`
 
