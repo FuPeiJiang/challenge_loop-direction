@@ -13,7 +13,7 @@ const reverse = true
 // process.exit(0)
 
 // add tests
-// -5000 or 5000
+// -50000 or 50000
 suite
   .add('repeat yourself', function () {
     let sum = 0
